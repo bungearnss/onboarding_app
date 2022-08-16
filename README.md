@@ -1,6 +1,8 @@
 # onbroading_ui_app
 
-A new Flutter project.
+A new Flutter onboarding UI with animation project.
+
+![intro_app](https://user-images.githubusercontent.com/66944039/184807544-4f274d05-b09f-4101-85ad-ec916d2282b1.jpg)
 
 ## Getting Started
 
