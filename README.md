@@ -2,7 +2,7 @@
 
 A new Flutter onboarding UI with animation project.
 
-![intro_app](https://user-images.githubusercontent.com/66944039/184807544-4f274d05-b09f-4101-85ad-ec916d2282b1.jpg)
+![intro_app](https://user-images.githubusercontent.com/66944039/184807728-a68f757c-2693-48c8-9484-ddb8f9d95d3a.jpg)
 
 ## Getting Started
 
